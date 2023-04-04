@@ -1,4 +1,5 @@
 ![NamSeoYong's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamSeoYong&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktx3900)](https://solved.ac/ktx3900/)
 
 <h1 align="center">Tech Stacks</h1>
 
