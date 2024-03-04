@@ -1,6 +1,6 @@
 <a href="https://github.com/NamSeoYong"><img align="left" style="width :400px" src="https://github-readme-stats.vercel.app/api?username=NamSeoYong&bg_color==30,FF7F50,FF69B4&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&theme=gradient&hide=issues&hide_border=true&count_private=true&line_height=30&border_radius=15" alt="SeungAh's github stats"/></a>
 <a href="https://github.com/NamSeoYong"><img align="left" style="width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamSeoYong&layout=compact&bg_color=30,FF7F50,FF69B4&title_color=fff&hide=css,GLSL,c%2B%2B,scss,c,jupyter%20notebook,ShaderLab,HLSL,HTML&text_color=fff&hide_border=true&card_width=400px&border_radius=12"/></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktx3900)](https://solved.ac/nsynsynsy/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsynsynsy)](https://solved.ac/nsynsynsy/)
 
 <h1 align="center">Tech Stacks</h1>
 
