@@ -6,6 +6,5 @@ Ph.D. Student · Haptics & Multimodal AI, **MILab, Hanyang University** — advi
 - 🖐️ Haptics & multimodal interaction — automatic 4D / multisensory effect generation and rendering
 - 🎬 Multimedia AI & computer vision
 - 🤖 Robot AI — vision-language-action (VLA) & video world models for manipulation
-- ♿ Accessibility
 
 🌐 Portfolio: [namseoyong.github.io](https://namseoyong.github.io)
