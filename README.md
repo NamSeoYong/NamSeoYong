@@ -1,6 +1,11 @@
 ### Hi, I'm Seoyong Nam 👋
 
-- 🖐️ Graduate researcher at **MILab, Hanyang University**, advised by Prof. Yongjae Yoo
-- 🎯 Working on **haptics** — vibrotactile perception, psychophysics-informed modeling, ML for tactile signals
-- 🌐 Portfolio: [namseoyong.github.io](https://namseoyong.github.io)
-- 💻 Algorithm practice: [solved.ac](https://solved.ac/nsynsynsy)
+Ph.D. Student · Haptics & Multimodal AI, **MILab, Hanyang University** — advised by Prof. Yongjae Yoo
+
+**Working on**
+- 🖐️ Haptics & multimodal interaction — automatic 4D / multisensory effect generation and rendering
+- 🎬 Multimedia AI & computer vision
+- 🤖 Robot AI — vision-language-action (VLA) & video world models for manipulation
+- ♿ Accessibility
+
+🌐 Portfolio: [namseoyong.github.io](https://namseoyong.github.io)
